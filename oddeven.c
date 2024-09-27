@@ -1,7 +1,8 @@
 #include<stdio.h>
 #include<conio.h>
 void main()
-{       clrscr();
+{     
+	clrscr();
 	int num;
 	printf("\n Enter number to check even/odd: ");
 	scanf("%d",&num);
