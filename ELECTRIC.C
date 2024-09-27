@@ -27,3 +27,5 @@ void main()
 	{
 		printf("Your bill is %d",unit*2.0)
 	}
+getch();
+}
