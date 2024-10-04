@@ -1,5 +1,7 @@
 #include<stdio.h>
-int main(){
+#include<conio.h>
+int main()
+{
     int m ;
     printf(" Enter the value of m: ");
     scanf("%d",&m);
@@ -13,5 +15,5 @@ int main(){
     {
         printf("\n 0");
     }    
-    return 0;
+    getch();
 }
